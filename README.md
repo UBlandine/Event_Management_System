@@ -15,7 +15,7 @@ We are developing the system using the MERN stack (MongoDB, Express.js, React.js
 * QR Code generation for receiving tickets.
 
 **Technologies Used**
-* ReactJs
+
 * NodeJs
 * ExpressJs
 * MongoDB
@@ -32,7 +32,7 @@ We are developing the system using the MERN stack (MongoDB, Express.js, React.js
 **Instalaltion**
 1. Clone the repository to your local machine.
 2. Navigate to the project directory. use two terminal <br>
-    **Cd Client** - For Frontend <br>
+    
     **Cd api** - For Backend <br>
 3. Install server dependenciesfor both frontend and backend.
 4. Create a .env file in the root directory with the following content, and replace placeholders with your own values. <br>
